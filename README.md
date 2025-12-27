@@ -2,8 +2,6 @@
 
 A fully functional, browser-based operating system simulation built with React. CyberOS provides a modern desktop experience with draggable windows, a file system, multiple applications, and a beautiful glassmorphism UI design.
 
-![CyberOS](https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800&q=80)
-
 ## 🚀 Features
 
 ### Core System
@@ -206,5 +204,5 @@ This project is open source and available under the [MIT License](LICENSE).
 **Abdul Moiz**
 
 - Email: abdulmoiz8895@gmail.com
-- GitHub: [@abdulmoiz](https://github.com/abdulmoiz)
+- GitHub: [@AbdulMoiz2493](https://github.com/AbdulMoiz2493)
 
